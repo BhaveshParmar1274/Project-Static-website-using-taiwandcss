@@ -1,0 +1,12 @@
+body{
+    /* background-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpUYqeVUngsCxgIrO5DRGEALpiShtdWcAGA&usqp=CAU"; */
+    background-color: rgb(92, 161, 92);
+
+}
+.of{
+    border-radius: 3%;
+    background-color: rgb(95, 204, 95);
+    max-width: 80%;
+    max-height:100vh;
+    overflow: auto;
+}
